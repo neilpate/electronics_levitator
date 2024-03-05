@@ -1,1 +1,4 @@
-https://github.com/neilpate/electronics_levitator/blob/main/Videos/WhatsApp%20Video%202024-03-03%20at%2021.36.41_b9deae82.mp4
+.. raw:: html
+
+    <video src="https://github.com/neilpate/electronics_levitator/assets/7802334/06fa6c44-98df-4179-8b7e-4c815a0a41ab"></video>
+
