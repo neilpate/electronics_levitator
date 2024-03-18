@@ -1,5 +1,6 @@
 Schematic:
-![image](https://github.com/neilpate/electronics_levitator/assets/7802334/6a3f8b3d-2b26-4d57-82d4-b54c68298eab)
+![image](https://github.com/neilpate/electronics_levitator/assets/7802334/7011e1a2-f272-481f-99ba-4aca43088b65)
+
 
 
 PCB
