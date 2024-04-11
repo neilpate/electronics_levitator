@@ -12,4 +12,5 @@ Finished item
 
 
 Video here: 
-  Videos/WhatsApp Video 2024-03-03 at 21.36.41_b9deae82.mp4
+https://github.com/neilpate/electronics_levitator/blob/main/Videos/WhatsApp Video 2024-03-03 at 21.36.41_b9deae82.mp4
+https://github.com/neilpate/electronics_levitator/blob/main/Videos/PXL_20240411_195410735.TS.mp4
