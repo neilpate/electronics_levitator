@@ -6,6 +6,10 @@ Schematic:
 PCB
 ![image](https://github.com/neilpate/electronics_levitator/assets/7802334/1636eba7-c897-43f7-a720-5b3e442a12e4)
 
+Finished item
+![PXL_20240411_195202448](https://github.com/neilpate/electronics_levitator/assets/7802334/aad19313-97cb-451c-889b-696e22cf52ff)
+
+
 
 Video here: 
   Videos/WhatsApp Video 2024-03-03 at 21.36.41_b9deae82.mp4
